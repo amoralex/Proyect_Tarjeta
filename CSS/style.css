@@ -1,8 +1,14 @@
 body{
-	background-color: blue;
+
+	background: url("../Img/fondo1.jpg");
+	filter: grayscale(100%);
+
+	/*background-image: url("imagenes/fondo.png");*/
 }
 
 #rectangulo{
+	padding: 10px;
+	border-radius: 10px;
 	height: 250px;
 	width: 40%;
 	background-color: white;
