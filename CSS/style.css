@@ -3,7 +3,7 @@ body{
 }
 
 #rectangulo{
-	height: 220px;
+	height: 250px;
 	width: 40%;
 	background-color: white;
 	margin-left: 30%
@@ -25,6 +25,8 @@ body{
 	margin-right: 30px;
 }
 .rsociales, img{
-	height: 60%;
+	text-align: center;
+	height: 50%;
+	margin-right: 10px;
 
 }
