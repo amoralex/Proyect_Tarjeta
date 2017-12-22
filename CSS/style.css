@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 #background {
 	width: 100%;
@@ -20,7 +21,7 @@ body{
 	position: absolute;
 	padding: 10px;
 	border-radius: 10px;
-	height: 250px;
+	height: 300px;
 	width: 40%;
 	background-color: #F4F4F4;
 	margin-left: 30%
