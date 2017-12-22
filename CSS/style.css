@@ -1,3 +1,16 @@
 body{
 	background-color: blue;
 }
+
+#rectangulo{
+	height: 220px;
+	width: 40%;
+	background-color: white;
+	margin-left: 30%
+}
+#titulo{
+	text-align: center;
+}
+#nombres{
+	
+}
